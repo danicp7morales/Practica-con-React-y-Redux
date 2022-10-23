@@ -1,0 +1,8 @@
+body {
+  background-color: aqua !important;
+}
+
+.App {
+  display:flex;
+  justify-content: center;
+}
